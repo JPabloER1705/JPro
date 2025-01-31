@@ -1,0 +1,4 @@
+aiohttp
+mutagen
+loguru
+python-dotenv
